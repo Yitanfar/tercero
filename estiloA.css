@@ -1,0 +1,28 @@
+nav{
+text-align:left; 
+background: black; 
+color: white;
+margin: 20px;
+padding: 1px;
+}
+
+section{
+float: left;
+width: 600px;background: green;}
+
+aside{
+float: right;
+width: 150px;background: yellow;}
+
+footer{
+clear: both;
+text-align=center;}
+
+
+
+
+
+		
+
+	
+
