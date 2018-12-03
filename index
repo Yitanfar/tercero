@@ -1,0 +1,78 @@
+<!DOCTYPE html> 
+<html lang="es">
+<head> 
+<meta charset="iso-8859-1"> 
+<meta name="description" content="Ejemplo de HTML5"> 
+<meta name="keywords" content="HTML5, CSS3, JavaScript">
+<meta	name="author"	content="Félix Aquino Rodríguez">
+<meta name="GRUPO" content="Tercero A">
+<meta name="Integrantes del equipo" content="Pepito, Jaimito y compañía">
+
+ 
+<title>Este texto es el título del documento</title> 
+<link rel="stylesheet" href="estilofelix.css"> 
+</head> 
+<body> 
+<header> 
+<h1>Este es el título principal del sitio web</h1>
+</header> 
+<nav>
+<ul>
+<li>Principal</li>
+<li>Fotos</li>
+<li>Videos</li>
+<li>Contacto</li>
+</ul>
+</nav>
+<section> 
+<article> 
+<header> 
+<hgroup> 
+<h1>Título del mensaje uno</h1> 
+<h2>Subtítulo del mensaje uno</h2> 
+</hgroup> 
+<p>publicado 10-12-2011</p> 
+</header>
+ 
+Este es el texto de mi primer mensaje 
+
+<figure> 
+<img src="C:\Users\Yitán\Pictures/10 may.jpg" alt="imagen de muestra"> 
+<figcaption> 
+Esta es la imagen del primer mensaje 
+</figcaption> 
+</figure> 
+
+<footer> 
+<p>Comentarios (0)</p> 
+</footer>
+</article> 
+
+<article> 
+<header> 
+<hgroup> 
+<h1>Título del mensaje dos</h1> 
+<h2>Subtítulo del mensaje dos</h2> 
+</hgroup> 
+<p>publicado 15-12-2011</p> 
+</header> 
+
+Este es el texto de mi segundo mensaje 
+
+<footer> 
+<p>Comentarios (0)</p> 
+</footer> 
+</article> 
+</section> 
+
+<aside>
+<blockquote>Mensaje número uno al lado</blockquote> 
+<blockquote>Mensaje número dos al lado</blockquote> 
+</aside>
+
+<footer> 
+<strong>Derechos Reservados &copy; 2018</strong>
+</footer> 
+
+</body> 
+</html>
